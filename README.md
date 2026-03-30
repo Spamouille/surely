@@ -1,21 +1,23 @@
-UNOFFICIAL / PERSONAL FORK !!! don't use it if you are an intelligent person :)
+Surely is an UNOFFICIAL and PERSONAL FORK !!! don't use it if you are an intelligent person :)
+
 <img width="1190" alt="maybe_hero" src="https://github.com/user-attachments/assets/5ed08763-a9ee-42b2-a436-e05038fcf573" />
 
-# Maybe: The personal finance app for everyone
+# Surely: The finance app for dumb
 
 > [!IMPORTANT]
-> This repository is no longer actively maintained. You can read more about this in our [final release](https://github.com/maybe-finance/maybe/releases/tag/v0.6.0).
+> 
+## Surely Hosting
 
-## Maybe Hosting
-
-Maybe is a fully working personal finance app that can be [self hosted with Docker](docs/hosting/docker.md).
+Surely is a dumby working personal finance app that can be [self hosted with Docker](docs/hosting/docker.md).
 
 ## Forking and Attribution
 
-This repo is no longer maintained. You’re free to fork it under the AGPLv3. To stay compliant and avoid trademark issues:
+This repo is not actively maintained. You’re free to fork it under the AGPLv3. To stay compliant and avoid trademark issues:
 
-- Be sure to include the original [AGPLv3 license](https://github.com/maybe-finance/maybe/blob/main/LICENSE) and clearly state in your README that your fork is based on Maybe Finance but is **not affiliated with or endorsed by** Maybe Finance Inc.
-- "Maybe" is a trademark of Maybe Finance Inc. and therefore, use of it is NOT allowed in forked repositories (or the logo)
+- Be sure to include the original [AGPLv3 license]
+- it's based 99.99% on Maybe Finance (https://github.com/maybe-finance/maybe/blob/main/LICENSE) but is **not affiliated with or endorsed by** Maybe Finance Inc.
+
+- "Maybe" is a trademark of Maybe Finance Inc.
 
 ## Local Development Setup
 
